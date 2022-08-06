@@ -1,3 +1,6 @@
 [submodule "BugSquash_frontend"]
 	path = BugSquash_frontend
 	url = https://github.com/MarcoKeppel/BugSquash_frontend
+[submodule "BugSquash_backend"]
+	path = BugSquash_backend
+	url = https://github.com/MarcoKeppel/BugSquash_backend
